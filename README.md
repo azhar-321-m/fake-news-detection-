@@ -62,8 +62,8 @@ The dataset contains labeled news articles categorized as Fake and True.
 
 ```text
 fake-news-detection/
-│
 ├── App.py
 ├── Train.py
 ├── model.pkl
 ├── vectorizer.pkl
+└── README.md
